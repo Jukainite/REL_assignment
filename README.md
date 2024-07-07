@@ -163,7 +163,7 @@ One table with winning rate comparisons in Validation between my Tabular Method 
 
 The Q-Learning Function Approximation method with the performance well against both Players (MaxDamagePlayer and RandomPlayer) was Q-Learning Function Approximation in the Deterministic environment.
 
-The Deep-RL method with the best performance in the Stochastic environment against both Players (MaxDamagePlayer and RandomPlayer) was Proximal Policy Optimization (PPO2) - Stable Baselines (2021) trained by 300k steps. In the Deterministic environment, against both Players (MaxDamagePlayer and RandomPlayer),  the best performance was Proximal Policy Optimization (PPO2) - Stable Baselines (2021) trained by 900k steps.
+In the Deterministic environment, against both Players (MaxDamagePlayer and RandomPlayer),  the best performance between Deep-RL method was A2C - Stable Baselines trained by 300k steps.
 
 
 
