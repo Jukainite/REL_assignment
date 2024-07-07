@@ -14,7 +14,15 @@ For training, it is necessary to run [Pokémon Showdown](https://play.pokemonsho
   * what are the possible strategies using no-damage moves;
   * and the best times to switch Pokémon. 
   * Move's effects: Some moves have [additional effects](https://bulbapedia.bulbagarden.net/wiki/Additional_effect). e.g.: Iron Head have 30% chance of flinching the target (target cannot move in the turn).
+# Configuring a Pokémon Showdown Server
+1.Install Node.js v10+.
 
+2.Clone the Pokémon Showdown repository and set it up:
+```git clone https://github.com/smogon/pokemon-showdown.git
+cd pokemon-showdown
+npm install
+cp config/config-example.js config/config.js
+node pokemon-showdown start --no-security ```
 #  **The  problem addressed**
 * [Pokémon](https://www.pokemon.com) is a popular Japanese RPG (Role Playing Game) which stands a world championship every year; 
 * One single [battle](https://bulbapedia.bulbagarden.net/wiki/Pokémon_battle) of Pokémon has two players. Each player has a 6-Pokémon team; 
