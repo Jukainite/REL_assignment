@@ -158,7 +158,7 @@ To speed up the battles, I hosted my own server of Pokemon Showdown in localhost
 
 # Comparisons
 
-One table with performance comparisons in Validation betIen my Tabular Method and Function Approximation implemented and Deep Reinforcement Learning methods implemented in this figure
+One table with winning rate comparisons in Validation between my Tabular Method and Function Approximation implemented and Deep Reinforcement Learning methods implemented in this figure
 ![alt text](image.png)
 
 The Q-Learning Function Approximation method with the performance well against both Players (MaxDamagePlayer and RandomPlayer) was Q-Learning Function Approximation in the Deterministic environment.
