@@ -253,4 +253,4 @@ model.load("model_%d" % NB_TRAINING_STEPS)
 
 ```
 # Limitations
-The only limitations of this project is that I have not been able to demo the DRL methods on real game of human and their winning rate on random teams are quite low.
+The only limitations of this project is that I have not been able to demo the DRL methods on real game of human and their winning rate on random teams have not been verified.
