@@ -18,11 +18,13 @@ For training, it is necessary to run [Pokémon Showdown](https://play.pokemonsho
 1.Install Node.js v10+.
 
 2.Clone the Pokémon Showdown repository and set it up:
-```git clone https://github.com/smogon/pokemon-showdown.git
+```
+git clone https://github.com/smogon/pokemon-showdown.git
 cd pokemon-showdown
 npm install
 cp config/config-example.js config/config.js
-node pokemon-showdown start --no-security ```
+node pokemon-showdown start --no-security
+```
 #  **The  problem addressed**
 * [Pokémon](https://www.pokemon.com) is a popular Japanese RPG (Role Playing Game) which stands a world championship every year; 
 * One single [battle](https://bulbapedia.bulbagarden.net/wiki/Pokémon_battle) of Pokémon has two players. Each player has a 6-Pokémon team; 
